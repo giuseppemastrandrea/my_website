@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>ESEMPIO</title>
+</head>
+<p>
+<h1>BUONGIORNO, QUESTA E' LA HOMEPAGE DI SPECCHI GIUSEPPE</h1>
+</p>
+</html>
