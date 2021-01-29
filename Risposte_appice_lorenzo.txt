@@ -1,0 +1,2 @@
+git viene usato per facilitare lo sviluppo di qualsiasi cosa tra persone e macchine diverse, ottenendo la cronologia di tutti gli spostamenti.
+ 
