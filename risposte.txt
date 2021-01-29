@@ -1,0 +1,3 @@
+Per cosa può essere usato git?
+Git può essere usato da un team di sviluppatori per lavorare su un unico progetto 
+tenendo traccia di tutte le versioni
