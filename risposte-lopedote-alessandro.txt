@@ -1,0 +1,1 @@
+Git è un software utilizzato per aiutare a collaborare gli sviluppatori fra di loro, dando la possibilità di creare dei cloud privati.
