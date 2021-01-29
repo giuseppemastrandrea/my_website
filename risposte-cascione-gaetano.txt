@@ -1,0 +1,2 @@
+Per cosa può essere usato git?
+Git è un software che può essere utilizzato per far collaborare più sviluppatori contemporaneamente sullo stesso progetto.
