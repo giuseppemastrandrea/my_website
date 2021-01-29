@@ -1,0 +1,3 @@
+A cosa può essere usato git?
+
+Git può essere utilizzato contemporaneamente da vari developer per lavorare su un progetto in comune 
