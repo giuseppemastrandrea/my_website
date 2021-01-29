@@ -1,0 +1,1 @@
+Git è un software che può essere utilizzato per permettere la condivisione con più utenti di file o informazioni di altro tipo. Inoltrea può essere usato da sviluppatori per lavorare su uno stesso progetto contemporaneamente.
