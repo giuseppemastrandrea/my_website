@@ -1,0 +1,1 @@
+git è un software locale che permette a uno o più sviluppatori di salvare istantanee dei loro progetti nel tempo.
